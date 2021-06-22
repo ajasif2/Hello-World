@@ -1,4 +1,4 @@
 # Hello-World
 Learning GitHub
 
-GitHub is a brilliant platform!
+GitHub is a very brilliant platform!
